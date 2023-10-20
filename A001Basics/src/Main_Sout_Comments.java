@@ -9,7 +9,7 @@
  */
 
 //The line below this identifies the class, or this 'page' of code if you will ('title' must match file name)
-class B001Main_Sout_Comments {
+class Main_Sout_Comments {
     // shorthand for below line is 'main'. This enables the 'run' feature, to make your code execute/play.
     public static void main(String[] args) {
         //shorthand for below line is 'sout'.
